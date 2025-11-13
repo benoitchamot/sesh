@@ -1,5 +1,5 @@
 # About Sesh
-Sesh creates a session in tmux based with a nice little environment:
+Sesh creates a session in tmux with a nice little environment:
 - a terminal in the left pane
 - Neovim in the right pane
 
