@@ -22,7 +22,7 @@ I'm lazy, so I have a script to copy `sesh` to `/usr/local/bin` when I update it
 - `fzf`
 - `tmux` (duh)
 
-I use bash, I have no idea whether `sesh` work with other shells.
+I use bash, I have no idea whether `sesh` works with other shells. To be sure, the shabang has been changed.
 
 ## What is missing?
 - There's some code in there to activate a venv if `.venv/` exists, but it doesn't seem to work
