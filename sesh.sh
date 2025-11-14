@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Usage: sesh/ [subdir]
 # Starts a TMUX session in the subdirectory of the /repos directory
 # If no argument is passed, list available repos in fzf
